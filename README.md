@@ -1,4 +1,4 @@
-# Online-Retail-Sales-Analysis
+# Online Retail Sales Analysis
 
 Анализ продаж интернет-магазина на основе Kaggle датасета “Online Retail Dataset”.
 
